@@ -1,5 +1,5 @@
 # nvidia_architecture
-
+```
 3. Scaling AI Performance
    3.1. Demand for computing power
       a. Exponential growth in computing demand, especially after the introduction of transformers in 2017
@@ -537,3 +537,4 @@
               - Capability to train models with trillions of parameters
               - Supports training on massive datasets (petabytes to exabytes)
               - Enables research on
+```
